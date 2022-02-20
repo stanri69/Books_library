@@ -1,6 +1,7 @@
 <div class="col-md-10 col-md-offset-1">
   <h2><%= @book.book_category %></h2>
   <p><%= @book.title %></p>
+  <%= image_tag @book.book_img.url(:book_show), class: "book-show" %>
   <p><%= @book.description %></p>
   <p><%= @book.author %></p>
 
