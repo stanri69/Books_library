@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootstrap'
 gem 'simple_form'
 gem 'devise'
+gem 'activeadmin'
 gem "paperclip"
 
 # Use Active Storage variant
