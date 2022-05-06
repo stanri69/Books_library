@@ -57,6 +57,7 @@
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, ruby-2.7.4-p191) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="database_cleaner (v2.0.1, ruby-2.7.4-p191) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="database_cleaner-active_record (v2.0.1, ruby-2.7.4-p191) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="database_cleaner-core (v2.0.1, ruby-2.7.4-p191) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="devise (v4.8.0, ruby-2.7.4-p191) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.4.4, ruby-2.7.4-p191) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.10.0, ruby-2.7.4-p191) [gem]" level="application" />
